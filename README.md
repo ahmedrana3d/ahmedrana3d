@@ -10,8 +10,9 @@
 - 📫 How to reach me **ahmedfrooq21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ig_ranasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ranasir" height="30" width="40" /></a>
+<p align="left" >
+<a href="https://instagram.com/ig_ranasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ranasir" height="40" width="40" /></a>
+<a href="https://wa.me/+923187554243" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="ig_ranasir" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

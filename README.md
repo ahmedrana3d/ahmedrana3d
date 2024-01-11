@@ -3,7 +3,7 @@
 
 <img align="right" alt="code-gif" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-frq&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-frq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrana3dq&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-frq" /> </p>
 
 - 💬 Ask me about **Three.js**
 
@@ -25,6 +25,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="html" width="50" height="50"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-frq&show_icons=true&locale=en&layout=compact" alt="ahmed-frq" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrana3d&show_icons=true&locale=en&layout=compact" alt="ahmed-frq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-frq&show_icons=true&locale=en" alt="ahmed-frq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrana3d&show_icons=true&locale=en" alt="ahmed-frq" /></p>

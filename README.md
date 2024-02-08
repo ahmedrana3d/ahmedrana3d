@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A Passionate 3D Web Developer</h3>
 
-<img align="right" alt="code-gif" src="https://www.neolisk.blog/images/2021-03-29-speed-of-coding-2.jpg" width="400px">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrana3dq&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-frq" /> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
